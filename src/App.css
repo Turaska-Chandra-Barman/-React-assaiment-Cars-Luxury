@@ -1,0 +1,17 @@
+.slick-prev, .slick-next {
+    background: rgba(255, 255, 255, 0.8); /* Background color */
+    border: none; /* Remove border */
+    border-radius: 50%; /* Rounded buttons */
+    padding: 10px; /* Padding */
+    z-index: 1000; /* Above other elements */
+    position: absolute; /* Positioning */
+  }
+  
+  .slick-prev {
+    left: 10px; /* Position */
+  }
+  
+  .slick-next {
+    right: 10px; /* Position */
+  }
+  
